@@ -1,0 +1,1 @@
+k6 run stress_test.js
